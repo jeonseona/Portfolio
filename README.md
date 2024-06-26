@@ -12,7 +12,7 @@
 
 ## **📝 포트폴리오 개요**
 
-<img width="100%" alt="메인 페이지" src="https://lh3.google.com/u/0/d/1mDZwF6E4fWpRNRf0Y4Q6ogsSVzbhC5IV=w1263-h952-iv1" />
+<img width="100%" alt="메인 페이지" src="https://drive.google.com/file/d/1mDZwF6E4fWpRNRf0Y4Q6ogsSVzbhC5IV/view?usp=sharing" />
 
 > **프로젝트:** 개인 포트폴리오 사이트
 >

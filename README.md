@@ -70,12 +70,13 @@
 
 ### **3. 반응형 웹**
 
-![QR 코드](https://drive.google.com/uc?id=185YhSqkWS97msHf3bOKAmDYzJKwvcBeG)
-![이미지 설명 2](/path/to/image2.jpg)
-![이미지 설명 3](/path/to/image3.jpg)
-![이미지 설명 4](/path/to/image4.jpg)
-![이미지 설명 5](/path/to/image5.jpg)
-![이미지 설명 6](/path/to/image6.jpg)
+![MyPage-main](https://drive.google.com/uc?id=185YhSqkWS97msHf3bOKAmDYzJKwvcBeG)
+![MyPage-info](https://drive.google.com/uc?id=1CPDJ6lZzE4r0eBa-Y5c_UCrnW622n3su)
+![MyPage-bookMark](https://drive.google.com/uc?id=1Yw_YSdmbPM0Vv9suwGy4JWUymtzWmtI1)
+![MyPage-reco](https://drive.google.com/uc?id=1sz_kp3_FdLN552RLJ43vWXwJft6fYa-d)
+![MyPage-recoDetail](https://drive.google.com/uc?id=1Y9jg0jnvh10hazE3RuIsnDLp57PptSlW)
+![MyPage-review](https://drive.google.com/uc?id=1T4sUzBWk92v6_u9fqo6Ui5HJhf8vRNCp)
+![MyPage-reviewDetail](https://drive.google.com/uc?id=1tBB04_csFD2Pf-bdZyR_iqpxCCYeiKKv)
 
 - 5개의 endpoint를 두고 반응형을 구현함
 
